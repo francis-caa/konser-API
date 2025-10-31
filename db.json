@@ -1,0 +1,646 @@
+{
+  "concerts":[
+    {
+      "id": 1,
+      "nama": "Heavenly Harmony Live",
+      "lokasi": "Jakarta Convention Center, Jakarta",
+      "tanggal": "2025-11-15",
+      "jam": "19:00",
+      "harga": "Start from Rp750.000",
+      "gambar": "https://upload.wikimedia.org/wikipedia/commons/1/11/Heavenly_french_band_3.jpg",
+      "link": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHeavenly_%2528French_band%2529&psig=AOvVaw2ej86Z6phhHwVdDBG1YRO8&ust=1761913736626000&source=images&cd=vfe&opi=89978449&ved=0CAMQjB1qFwoTCICo2Kj2y5ADFQAAAAAdAAAAABAE",
+      "genre": "Pop",
+      "jenisTiket": [
+        { "tipe": "Regular", "hargaPerTiket": 750000 },
+        { "tipe": "VIP", "hargaPerTiket": 1200000 },
+        { "tipe": "VVIP", "hargaPerTiket": 2000000 }
+      ]
+    },
+    {
+      "id": 2,
+      "nama": "Java Jazz Festival 2025",
+      "lokasi": "JIExpo Kemayoran, Jakarta",
+      "tanggal": "2025-05-30",
+      "jam": "18:00",
+      "harga": "Rp850.000 - Rp2.500.000",
+      "gambar": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Maliq_%26_D%27Essentials_Performs_at_Jakarta_International_Jazz_Java_Festival_2020.jpg",
+      "link": "https://javajazzfestival.com",
+      "genre": "Jazz",
+      "jenisTiket": [
+        { "tipe": "Daily Pass", "hargaPerTiket": 850000 },
+        { "tipe": "3-Day Pass", "hargaPerTiket": 2000000 },
+        { "tipe": "VIP", "hargaPerTiket": 2500000 }
+      ]
+    },
+    {
+      "id": 3,
+      "nama": "Djakarta Warehouse Project 2025",
+      "lokasi": "GWK Cultural Park, Bali",
+      "tanggal": "2025-12-13",
+      "jam": "20:00",
+      "harga": "Rp1.200.000 - Rp3.000.000",
+      "gambar": "https://upload.wikimedia.org/wikipedia/commons/7/72/Garuda_Bot_at_DWP_2017.jpg",
+      "link": "https://djakartawarehouse.com",
+      "genre": "EDM",
+      "jenisTiket": [
+        { "tipe": "General Admission", "hargaPerTiket": 1200000 },
+        { "tipe": "VIP", "hargaPerTiket": 2200000 },
+        { "tipe": "Platinum", "hargaPerTiket": 3000000 }
+      ]
+    },
+    {
+      "id": 4,
+      "nama": "Rock Nation Reunion",
+      "lokasi": "Bandung Lautan Api Stadium, Bandung",
+      "tanggal": "2025-06-20",
+      "jam": "19:30",
+      "harga": "Rp400.000 - Rp1.200.000",
+      "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Tainan_2023_Rock_of_Spring_Music_Concert_in_ICC_Tainan.jpg/640px-Tainan_2023_Rock_of_Spring_Music_Concert_in_ICC_Tainan.jpg",
+      "link": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fjnews.io%2Fpodcast%2F2020%2F10%2F21%2Frock-nation-15-gembel-tapi-kalcer%2F&psig=AOvVaw2fKYuy9YXOH1wq5oby9RuP&ust=1761915568980000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNjTuJH9y5ADFQAAAAAdAAAAABAE",
+      "genre": "Rock",
+      "jenisTiket": [
+        { "tipe": "Regular", "hargaPerTiket": 400000 },
+        { "tipe": "VIP", "hargaPerTiket": 800000 },
+        { "tipe": "VVIP", "hargaPerTiket": 1200000 }
+      ]
+    },
+    {
+      "id": 5,
+      "nama": "Serenade di Yogyakarta",
+      "lokasi": "Taman Budaya, Yogyakarta",
+      "tanggal": "2025-07-02",
+      "jam": "18:30",
+      "harga": "Start from Rp250.000",
+      "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Dublin_Philharmonic_Orchestra_performing_Tchaikovsky%27s_Symphony_No_4_in_Charlotte%2C_North_Carolina.jpg/960px-Dublin_Philharmonic_Orchestra_performing_Tchaikovsky%27s_Symphony_No_4_in_Charlotte%2C_North_Carolina.jpg",
+      "link": "https://www.yesplis.com/event/sbbxi",
+      "genre": "Orchestra",
+      "jenisTiket": [
+        { "tipe": "Regular", "hargaPerTiket": 250000 },
+        { "tipe": "VIP", "hargaPerTiket": 500000 },
+        { "tipe": "Meet & Greet", "hargaPerTiket": 800000 }
+      ]
+    },
+    {
+      "id": 6,
+      "nama": "K-Pop Blast Jakarta",
+      "lokasi": "Stadion Utama Gelora Bung Karno, Jakarta",
+      "tanggal": "2025-09-05",
+      "jam": "19:00",
+      "harga": "Rp1.000.000 - Rp3.500.000",
+      "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Incheon_Korean_Music_Wave_%28INCHEON_KPOP%29_20240907.png/640px-Incheon_Korean_Music_Wave_%28INCHEON_KPOP%29_20240907.png",
+      "link": "https://www.kplayfest.com/kpop-concert-calendar",
+      "genre": "K-Pop",
+      "jenisTiket": [
+        { "tipe": "Regular", "hargaPerTiket": 1000000 },
+        { "tipe": "VIP", "hargaPerTiket": 2500000 },
+        { "tipe": "VVIP", "hargaPerTiket": 3500000 }
+      ]
+    },
+    {
+      "id": 7,
+      "nama": "Sound of Nusantara",
+      "lokasi": "Taman Mini Indonesia Indah, Jakarta",
+      "tanggal": "2025-08-14",
+      "jam": "17:00",
+      "harga": "Rp200.000 - Rp600.000",
+      "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Panorama_of_the_Merriweather_Post_Pavilion.jpg/640px-Panorama_of_the_Merriweather_Post_Pavilion.jpg",
+      "link": "https://eventnusantara.com/",
+      "genre": "Traditional",
+      "jenisTiket": [
+        { "tipe": "Regular", "hargaPerTiket": 200000 },
+        { "tipe": "VIP", "hargaPerTiket": 400000 },
+        { "tipe": "VVIP", "hargaPerTiket": 600000 }
+      ]
+    },
+    {
+      "id": 8,
+      "nama": "Electro Sunrise Festival",
+      "lokasi": "Beachwalk, Bali",
+      "tanggal": "2025-06-01",
+      "jam": "20:00",
+      "harga": "Rp500.000 - Rp2.000.000",
+      "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Rhode_Island_Philharmonic_plays_at_an_outdoor_concert_July_4%2C_2012.jpg/640px-Rhode_Island_Philharmonic_plays_at_an_outdoor_concert_July_4%2C_2012.jpg",
+      "link": "https://example.com/electrosunrise",
+      "genre": "EDM",
+      "jenisTiket": [
+        { "tipe": "Regular", "hargaPerTiket": 500000 },
+        { "tipe": "VIP", "hargaPerTiket": 1200000 },
+        { "tipe": "VVIP", "hargaPerTiket": 2000000 }
+      ]
+    },
+    {
+      "id": 9,
+      "nama": "Melody of the Hills",
+      "lokasi": "Lembang Park, Bandung",
+      "tanggal": "2025-07-12",
+      "jam": "16:00",
+      "harga": "Start from Rp350.000",
+      "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Concert_in_Las_Palmas%2C_Fito_y_Fitipaldis.jpg/640px-Concert_in_Las_Palmas%2C_Fito_y_Fitipaldis.jpg",
+      "link": "https://www.songkick.com/",
+      "genre": "Rock",
+      "jenisTiket": [
+        { "tipe": "Regular", "hargaPerTiket": 350000 },
+        { "tipe": "VIP", "hargaPerTiket": 600000 },
+        { "tipe": "VVIP", "hargaPerTiket": 900000 }
+      ]
+    },
+    {
+      "id": 10,
+      "nama": "Soulful Night Surabaya",
+      "lokasi": "Grand City Convex, Surabaya",
+      "tanggal": "2025-10-10",
+      "jam": "19:30",
+      "harga": "Rp400.000 - Rp1.200.000",
+      "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Karen_Mok_concert_on_10_Nov_2018_in_Suzhou.jpg/640px-Karen_Mok_concert_on_10_Nov_2018_in_Suzhou.jpg",
+      "link": "https://eventnusantara.com/",
+      "genre": "R&B",
+      "jenisTiket": [
+        { "tipe": "Regular", "hargaPerTiket": 400000 },
+        { "tipe": "VIP", "hargaPerTiket": 800000 },
+        { "tipe": "VVIP", "hargaPerTiket": 1200000 }
+      ]
+    },
+        {
+      "id": 11,
+      "nama": "Indie Vibes Fest",
+      "lokasi": "Lapangan Pancasila, Semarang",
+      "tanggal": "2025-09-14",
+      "jam": "18:00",
+      "harga": "Rp200.000 - Rp800.000",
+      "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Reality_Club_in_Manila.jpg/640px-Reality_Club_in_Manila.jpg",
+      "link": "https://blog.addtix.id/daftar-konser-musik-indie-yang-sedang-naik-daun-di-indonesia/",
+      "genre": "Indie",
+      "jenisTiket": [
+        { "tipe": "Regular", "hargaPerTiket": 200000 },
+        { "tipe": "VIP", "hargaPerTiket": 500000 },
+        { "tipe": "VVIP", "hargaPerTiket": 800000 }
+      ]
+    },
+    {
+      "id": 12,
+      "nama": "Symphony Under the Stars",
+      "lokasi": "Ambarawa Field, Magelang",
+      "tanggal": "2025-08-07",
+      "jam": "19:00",
+      "harga": "Start from Rp300.000",
+      "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Crosby%2C_Still_and_Nash%2C_y_Peter_Frampton%2C_en_Barcelona_2005.jpg/640px-Crosby%2C_Still_and_Nash%2C_y_Peter_Frampton%2C_en_Barcelona_2005.jpg",
+      "link": "https://bachtrack.com/search-concerts",
+      "genre": "Classical",
+      "jenisTiket": [
+        { "tipe": "Standard", "hargaPerTiket": 300000 },
+        { "tipe": "Premium", "hargaPerTiket": 600000 },
+        { "tipe": "Exclusive", "hargaPerTiket": 900000 }
+      ]
+    },
+    {
+      "id": 13,
+      "nama": "Tropical Beats 2025",
+      "lokasi": "Pantai Losari, Makassar",
+      "tanggal": "2025-07-21",
+      "jam": "17:30",
+      "harga": "Rp350.000 - Rp1.200.000",
+      "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Concert_de_Marc_Amat.jpg/640px-Concert_de_Marc_Amat.jpg",
+      "link": "https://pophariini.com/event-category/konser-musik/",
+      "genre": "Pop",
+      "jenisTiket": [
+        { "tipe": "Regular", "hargaPerTiket": 350000 },
+        { "tipe": "VIP", "hargaPerTiket": 800000 },
+        { "tipe": "VVIP", "hargaPerTiket": 1200000 }
+      ]
+    },
+    {
+      "id": 14,
+      "nama": "Rising Stars Showcase",
+      "lokasi": "Sabuga ITB, Bandung",
+      "tanggal": "2025-10-22",
+      "jam": "19:00",
+      "harga": "Start from Rp150.000",
+      "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Waiting_for_the_All_Time_Low_concert.jpg/640px-Waiting_for_the_All_Time_Low_concert.jpg",
+      "link": "https://pophariini.com/event-category/konser-musik/",
+      "genre": "Pop",
+      "jenisTiket": [
+        { "tipe": "Student", "hargaPerTiket": 150000 },
+        { "tipe": "Regular", "hargaPerTiket": 250000 },
+        { "tipe": "VIP", "hargaPerTiket": 500000 }
+      ]
+    },
+    {
+      "id": 15,
+      "nama": "Metal Storm 2025",
+      "lokasi": "Stadion Gajayana, Malang",
+      "tanggal": "2025-09-10",
+      "jam": "18:30",
+      "harga": "Rp300.000 - Rp1.000.000",
+      "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Concierto_de_Yucat%C3%A1n_a_go_go.jpg/640px-Concierto_de_Yucat%C3%A1n_a_go_go.jpg",
+      "link": "https://musikeras.com/konser/",
+      "genre": "Metal",
+      "jenisTiket": [
+        { "tipe": "Festival", "hargaPerTiket": 300000 },
+        { "tipe": "Front Row", "hargaPerTiket": 600000 },
+        { "tipe": "Backstage Pass", "hargaPerTiket": 1000000 }
+      ]
+    },
+    {
+      "id": 16,
+      "nama": "Sunset Acoustic Session",
+      "lokasi": "Pantai Parangtritis, Yogyakarta",
+      "tanggal": "2025-07-05",
+      "jam": "17:00",
+      "harga": "Start from Rp200.000",
+      "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Choura_Events_Double_Decker_Tent_Structure_for_Large_Outdoor_Live_Events_and_Music_Festivals.jpg/640px-Choura_Events_Double_Decker_Tent_Structure_for_Large_Outdoor_Live_Events_and_Music_Festivals.jpg",
+      "link": "https://eventnusantara.com/",
+      "genre": "Acoustic",
+      "jenisTiket": [
+        { "tipe": "Regular", "hargaPerTiket": 200000 },
+        { "tipe": "VIP Lounge", "hargaPerTiket": 400000 },
+        { "tipe": "Couple Package", "hargaPerTiket": 600000 }
+      ]
+    },
+    {
+      "id": 17,
+      "nama": "Harmony of Strings",
+      "lokasi": "Auditorium UNS, Solo",
+      "tanggal": "2025-08-25",
+      "jam": "19:00",
+      "harga": "Rp250.000 - Rp900.000",
+      "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Orchestre_Symphonique_CRR_Paris.JPG/640px-Orchestre_Symphonique_CRR_Paris.JPG",
+      "link": "https://www.isi.ac.id/2023/12/08/orkes-mahasiswa-isi-yogyakarta-gelar-konser-simfoni-ultima-carta/",
+      "genre": "Instrumental",
+      "jenisTiket": [
+        { "tipe": "Regular", "hargaPerTiket": 250000 },
+        { "tipe": "Premium", "hargaPerTiket": 500000 },
+        { "tipe": "Exclusive", "hargaPerTiket": 900000 }
+      ]
+    },
+    {
+      "id": 18,
+      "nama": "Borneo Music Carnival",
+      "lokasi": "Lapangan Merdeka, Balikpapan",
+      "tanggal": "2025-06-28",
+      "jam": "18:00",
+      "harga": "Rp400.000 - Rp1.500.000",
+      "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Weyfest_2011_Beekeepers_Stage_-_The_Enid.jpg/640px-Weyfest_2011_Beekeepers_Stage_-_The_Enid.jpg",
+      "link": "https://eventnusantara.com/",
+      "genre": "Festival",
+      "jenisTiket": [
+        { "tipe": "Regular", "hargaPerTiket": 400000 },
+        { "tipe": "VIP", "hargaPerTiket": 900000 },
+        { "tipe": "VVIP", "hargaPerTiket": 1500000 }
+      ]
+    },
+    {
+      "id": 19,
+      "nama": "Jazz in the Sky",
+      "lokasi": "Menara Astra Rooftop, Jakarta",
+      "tanggal": "2025-11-01",
+      "jam": "20:00",
+      "harga": "Start from Rp500.000",
+      "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Inagawa_Jazz_%286%29.jpg/640px-Inagawa_Jazz_%286%29.jpg",
+      "link": "https://jazz.org/concerts-events/calendar/",
+      "genre": "Jazz",
+      "jenisTiket": [
+        { "tipe": "Standard", "hargaPerTiket": 500000 },
+        { "tipe": "Couple", "hargaPerTiket": 900000 },
+        { "tipe": "VIP Lounge", "hargaPerTiket": 1500000 }
+      ]
+    },
+    {
+      "id": 20,
+      "nama": "Northern Light Fest",
+      "lokasi": "Lapangan Benteng, Medan",
+      "tanggal": "2025-09-01",
+      "jam": "18:30",
+      "harga": "Rp300.000 - Rp1.000.000",
+      "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Freiburg_Stimmt_Ein%2C_ganz_Freiburg_feiert_seine_MusikerInnen.jpg/640px-Freiburg_Stimmt_Ein%2C_ganz_Freiburg_feiert_seine_MusikerInnen.jpg",
+      "link": "https://en.wikipedia.org/wiki/Aurora",
+      "genre": "Pop Rock",
+      "jenisTiket": [
+        { "tipe": "Regular", "hargaPerTiket": 300000 },
+        { "tipe": "VIP", "hargaPerTiket": 700000 },
+        { "tipe": "VVIP", "hargaPerTiket": 1000000 }
+      ]
+    },
+    {
+      "id": 21,
+      "nama": "Future Beats 2025",
+      "lokasi": "Pakuwon Mall, Surabaya",
+      "tanggal": "2025-11-18",
+      "jam": "19:00",
+      "harga": "Rp250.000 - Rp900.000",
+      "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/SulaFest2020.jpg/640px-SulaFest2020.jpg",
+      "link": "https://pophariini.com/event-category/konser-musik/",
+      "genre": "Pop",
+      "jenisTiket": [
+        { "tipe": "Regular", "hargaPerTiket": 250000 },
+        { "tipe": "VIP", "hargaPerTiket": 500000 },
+        { "tipe": "VVIP", "hargaPerTiket": 900000 }
+      ]
+    },
+    {
+      "id": 22,
+      "nama": "Gamelan Spirit",
+      "lokasi": "Pura Mangkunegaran, Solo",
+      "tanggal": "2025-08-17",
+      "jam": "19:00",
+      "harga": "Start from Rp150.000",
+      "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Gamelan_Performance_by_Pasinaon_Omah_Kendeng_15.jpg/640px-Gamelan_Performance_by_Pasinaon_Omah_Kendeng_15.jpg",
+      "link": "https://eventnusantara.com/",
+      "genre": "Traditional",
+      "jenisTiket": [
+        { "tipe": "Student", "hargaPerTiket": 150000 },
+        { "tipe": "Regular", "hargaPerTiket": 300000 },
+        { "tipe": "VIP", "hargaPerTiket": 500000 }
+      ]
+    },
+    {
+      "id": 23,
+      "nama": "Harmony of Hope Charity Concert",
+      "lokasi": "Universitas Indonesia Hall, Depok",
+      "tanggal": "2025-12-01",
+      "jam": "18:30",
+      "harga": "Start from Rp200.000",
+      "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Orchestre_Symphonique_de_Talence.jpg/640px-Orchestre_Symphonique_de_Talence.jpg",
+      "link": "https://www.isi.ac.id/2023/12/08/orkes-mahasiswa-isi-yogyakarta-gelar-konser-simfoni-ultima-carta/",
+      "genre": "Orchestra",
+      "jenisTiket": [
+        { "tipe": "Regular", "hargaPerTiket": 200000 },
+        { "tipe": "Supporter", "hargaPerTiket": 400000 },
+        { "tipe": "Donor", "hargaPerTiket": 700000 }
+      ]
+    },
+  {
+    "id": 24,
+    "nama": "K-Rock Explosion",
+    "lokasi": "ICE BSD, Tangerang",
+    "tanggal": "2025-07-13",
+    "jam": "18:30",
+    "harga": "Start from Rp350.000",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/The_Rob_Ryan_Roadshow_-_2018172175209_2018-06-21_Rock_the_Ring_-_5DS_R_-_0027_-_5DSR6718.jpg/640px-The_Rob_Ryan_Roadshow_-_2018172175209_2018-06-21_Rock_the_Ring_-_5DS_R_-_0027_-_5DSR6718.jpg",
+    "link": "https://musikeras.com/konser/",
+    "genre": "Rock",
+    "jenisTiket": [
+      { "tipe": "Regular", "hargaPerTiket": 350000 },
+      { "tipe": "VIP", "hargaPerTiket": 650000 },
+      { "tipe": "VVIP", "hargaPerTiket": 900000 }
+    ]
+  },
+  {
+    "id": 25,
+    "nama": "Soundwave Festival",
+    "lokasi": "Beach City International Stadium, Ancol",
+    "tanggal": "2025-09-04",
+    "jam": "19:00",
+    "harga": "Start from Rp500.000",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Sauble_Beach%2C_54-40_concert_%286023933473%29.jpg/640px-Sauble_Beach%2C_54-40_concert_%286023933473%29.jpg",
+    "link": "https://pophariini.com/event-category/konser-musik/",
+    "genre": "Pop",
+    "jenisTiket": [
+      { "tipe": "Regular", "hargaPerTiket": 500000 },
+      { "tipe": "VIP", "hargaPerTiket": 900000 },
+      { "tipe": "Premium", "hargaPerTiket": 1200000 }
+    ]
+  },
+  {
+    "id": 26,
+    "nama": "J-Rock Universe",
+    "lokasi": "Gelora Bung Karno, Jakarta",
+    "tanggal": "2025-08-17",
+    "jam": "19:30",
+    "harga": "Start from Rp600.000",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Think_Floyd_Live%2C_Hard_Rock_Cafe%2C_Gurgaon.jpg/640px-Think_Floyd_Live%2C_Hard_Rock_Cafe%2C_Gurgaon.jpg",
+    "link": "https://musikeras.com/konser/",
+    "genre": "Rock",
+    "jenisTiket": [
+      { "tipe": "Regular", "hargaPerTiket": 600000 },
+      { "tipe": "VIP", "hargaPerTiket": 950000 },
+      { "tipe": "Platinum", "hargaPerTiket": 1300000 }
+    ]
+  },
+  {
+    "id": 27,
+    "nama": "Indie Harmony Night",
+    "lokasi": "Taman Ismail Marzuki, Jakarta",
+    "tanggal": "2025-06-30",
+    "jam": "20:00",
+    "harga": "Start from Rp250.000",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_YARD_-_Hillsboro%2C_Texas_outdoor_concerts.jpg/640px-The_YARD_-_Hillsboro%2C_Texas_outdoor_concerts.jpg",
+    "link": "https://eventnusantara.com/",
+    "genre": "Indie",
+    "jenisTiket": [
+      { "tipe": "Student", "hargaPerTiket": 250000 },
+      { "tipe": "Regular", "hargaPerTiket": 400000 },
+      { "tipe": "VIP", "hargaPerTiket": 600000 }
+    ]
+  },
+  {
+    "id": 28,
+    "nama": "Dreamscape Festival",
+    "lokasi": "Pantai Indah Kapuk, Jakarta",
+    "tanggal": "2025-10-05",
+    "jam": "18:00",
+    "harga": "Start from Rp700.000",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Amaze_2018_Stage.jpg/640px-Amaze_2018_Stage.jpg",
+    "link": "https://edmtrain.com/",
+    "genre": "EDM",
+    "jenisTiket": [
+      { "tipe": "General", "hargaPerTiket": 700000 },
+      { "tipe": "VIP", "hargaPerTiket": 1200000 },
+      { "tipe": "VVIP", "hargaPerTiket": 1600000 }
+    ]
+  },
+  {
+    "id": 29,
+    "nama": "Harmony of Legends",
+    "lokasi": "Jakarta International Stadium",
+    "tanggal": "2025-11-02",
+    "jam": "19:30",
+    "harga": "Start from Rp1.000.000",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/The_Rolling_Stones_Concert_-_geograph.org.uk_-_5804459.jpg/640px-The_Rolling_Stones_Concert_-_geograph.org.uk_-_5804459.jpg",
+    "link": "https://pophariini.com/event-category/konser-musik/",
+    "genre": "Pop",
+    "jenisTiket": [
+      { "tipe": "Silver", "hargaPerTiket": 1000000 },
+      { "tipe": "Gold", "hargaPerTiket": 1500000 },
+      { "tipe": "Diamond", "hargaPerTiket": 2000000 }
+    ]
+  },
+  {
+    "id": 30,
+    "nama": "HipHop Empire",
+    "lokasi": "Senayan Park, Jakarta",
+    "tanggal": "2025-07-25",
+    "jam": "20:00",
+    "harga": "Start from Rp400.000",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Yerevan%2C_Open_air_concert%2C_Music_event%2C_Armenia.jpg/640px-Yerevan%2C_Open_air_concert%2C_Music_event%2C_Armenia.jpg",
+    "link": "https://musikeras.com/konser/",
+    "genre": "HipHop",
+    "jenisTiket": [
+      { "tipe": "General", "hargaPerTiket": 400000 },
+      { "tipe": "VIP", "hargaPerTiket": 750000 },
+      { "tipe": "Exclusive", "hargaPerTiket": 1000000 }
+    ]
+  },
+  {
+    "id": 31,
+    "nama": "Eternal Symphony",
+    "lokasi": "Jakarta Convention Center",
+    "tanggal": "2025-12-01",
+    "jam": "19:00",
+    "harga": "Start from Rp650.000",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Orchestre_Philharmonique_de_Nice_NEW_2012.jpg/640px-Orchestre_Philharmonique_de_Nice_NEW_2012.jpg",
+    "link": "https://www.isi.ac.id/2023/12/08/orkes-mahasiswa-isi-yogyakarta-gelar-konser-simfoni-ultima-carta/",
+    "genre": "Classical",
+    "jenisTiket": [
+      { "tipe": "Balcony", "hargaPerTiket": 650000 },
+      { "tipe": "Orchestra", "hargaPerTiket": 950000 },
+      { "tipe": "Premium", "hargaPerTiket": 1300000 }
+    ]
+  },
+  {
+    "id": 32,
+    "nama": "Pop Fiesta",
+    "lokasi": "Beach City International Stadium, Ancol",
+    "tanggal": "2025-09-12",
+    "jam": "18:30",
+    "harga": "Start from Rp550.000",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/The_concert_of_Mnogotochie_Band_in_Minsk_2019_%281%29.jpg/640px-The_concert_of_Mnogotochie_Band_in_Minsk_2019_%281%29.jpg",
+    "link": "https://pophariini.com/event-category/konser-musik/",
+    "genre": "Pop",
+    "jenisTiket": [
+      { "tipe": "Regular", "hargaPerTiket": 550000 },
+      { "tipe": "VIP", "hargaPerTiket": 950000 },
+      { "tipe": "VVIP", "hargaPerTiket": 1300000 }
+    ]
+  },
+  {
+    "id": 33,
+    "nama": "Acoustic Garden",
+    "lokasi": "Lapangan UGM, Yogyakarta",
+    "tanggal": "2025-08-09",
+    "jam": "17:30",
+    "harga": "Start from Rp250.000",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Rock_concert_in_Blenheim_Gardens_-_geograph.org.uk_-_7223328.jpg/640px-Rock_concert_in_Blenheim_Gardens_-_geograph.org.uk_-_7223328.jpg",
+    "link": "https://www.songkick.com/artists/263179-garden",
+    "genre": "Acoustic",
+    "jenisTiket": [
+      { "tipe": "Student", "hargaPerTiket": 250000 },
+      { "tipe": "Regular", "hargaPerTiket": 400000 },
+      { "tipe": "VIP", "hargaPerTiket": 600000 }
+    ]
+  },
+  {
+    "id": 34,
+    "nama": "Heavenly Vibes",
+    "lokasi": "ICE BSD, Tangerang",
+    "tanggal": "2025-06-28",
+    "jam": "18:00",
+    "harga": "Start from Rp800.000",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Korea_Sale_Festa_49_%2829944633332%29.jpg/640px-Korea_Sale_Festa_49_%2829944633332%29.jpg",
+    "link": "https://www.kplayfest.com/kpop-concert-calendar",
+    "genre": "K-Pop",
+    "jenisTiket": [
+      { "tipe": "Regular", "hargaPerTiket": 800000 },
+      { "tipe": "VIP", "hargaPerTiket": 1200000 },
+      { "tipe": "VVIP", "hargaPerTiket": 1500000 }
+    ]
+ },
+  {
+    "id": 35,
+    "nama": "Jazz Serenity",
+    "lokasi": "The Kasablanka Hall, Jakarta",
+    "tanggal": "2025-11-09",
+    "jam": "19:00",
+    "harga": "Start from Rp450.000",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/2018%E5%8F%B0%E4%B8%AD%E7%88%B5%E5%A3%AB%E9%9F%B3%E6%A8%82%E7%AF%80Eric_Marienthal%E8%88%87TJO.jpg/640px-2018%E5%8F%B0%E4%B8%AD%E7%88%B5%E5%A3%AB%E9%9F%B3%E6%A8%82%E7%AF%80Eric_Marienthal%E8%88%87TJO.jpg",
+    "link": "https://musikeras.com/konser/",
+    "genre": "Jazz",
+    "jenisTiket": [
+      { "tipe": "Regular", "hargaPerTiket": 450000 },
+      { "tipe": "VIP", "hargaPerTiket": 750000 },
+      { "tipe": "Exclusive", "hargaPerTiket": 1000000 }
+    ]
+  },
+  {
+    "id": 36,
+    "nama": "Festival Nusantara",
+    "lokasi": "Lapangan Merdeka, Medan",
+    "tanggal": "2025-08-10",
+    "jam": "18:00",
+    "harga": "Start from Rp200.000",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Zhangjie_Future_Live_Concert.jpg/640px-Zhangjie_Future_Live_Concert.jpg",
+    "link": "https://eventnusantara.com/",
+    "genre": "Traditional",
+    "jenisTiket": [
+      { "tipe": "Student", "hargaPerTiket": 200000 },
+      { "tipe": "Regular", "hargaPerTiket": 300000 },
+      { "tipe": "VIP", "hargaPerTiket": 500000 }
+    ]
+  },
+  {
+    "id": 37,
+    "nama": "Lo-Fi Dreams",
+    "lokasi": "M Bloc Space, Jakarta",
+    "tanggal": "2025-07-21",
+    "jam": "20:00",
+    "harga": "Start from Rp250.000",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Little_autumn_festival_in_Dunes%2C_Saint_Petersburg%2C_9_September%2C_2018-1.jpg/640px-Little_autumn_festival_in_Dunes%2C_Saint_Petersburg%2C_9_September%2C_2018-1.jpg",
+    "link": "https://musikeras.com/konser/",
+    "genre": "Lo-Fi",
+    "jenisTiket": [
+      { "tipe": "Student", "hargaPerTiket": 250000 },
+      { "tipe": "Regular", "hargaPerTiket": 400000 },
+      { "tipe": "VIP", "hargaPerTiket": 600000 }
+    ]
+  },
+  {
+    "id": 38,
+    "nama": "Symphony of Stars",
+    "lokasi": "Taman Budaya Bali, Denpasar",
+    "tanggal": "2025-09-22",
+    "jam": "19:30",
+    "harga": "Start from Rp500.000",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Las_Pi%C3%B1as_Boys_Choir_at_the_PhilAm_Concert.jpg/640px-Las_Pi%C3%B1as_Boys_Choir_at_the_PhilAm_Concert.jpg",
+    "link": "https://www.isi.ac.id/2023/12/08/orkes-mahasiswa-isi-yogyakarta-gelar-konser-simfoni-ultima-carta/",
+    "genre": "Orchestra",
+    "jenisTiket": [
+      { "tipe": "Balcony", "hargaPerTiket": 500000 },
+      { "tipe": "Orchestra", "hargaPerTiket": 800000 },
+      { "tipe": "Premium", "hargaPerTiket": 1100000 }
+    ]
+  },
+  {
+    "id": 39,
+    "nama": "Rocktober Fest",
+    "lokasi": "Stadion Si Jalak Harupat, Bandung",
+    "tanggal": "2025-10-15",
+    "jam": "18:30",
+    "harga": "Start from Rp400.000",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Celestial_Empire_Live_at_Euology_%2717_4.jpg/640px-Celestial_Empire_Live_at_Euology_%2717_4.jpg",
+    "link": "https://musikeras.com/konser/",
+    "genre": "Rock",
+    "jenisTiket": [
+      { "tipe": "Regular", "hargaPerTiket": 400000 },
+      { "tipe": "VIP", "hargaPerTiket": 700000 },
+      { "tipe": "VVIP", "hargaPerTiket": 1000000 }
+    ]
+  },
+  {
+    "id": 40,
+    "nama": "Melodi Cinta",
+    "lokasi": "Graha Cakrawala, Malang",
+    "tanggal": "2025-08-28",
+    "jam": "19:00",
+    "harga": "Start from Rp300.000",
+    "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Color_Concert.jpg/640px-Color_Concert.jpg",
+    "link": "https://musikeras.com/konser/",
+    "genre": "Pop",
+    "jenisTiket": [
+      { "tipe": "Regular", "hargaPerTiket": 300000 },
+      { "tipe": "VIP", "hargaPerTiket": 500000 },
+      { "tipe": "Exclusive", "hargaPerTiket": 800000 }
+    ]
+  }
+  ]
+  }
+
+    
